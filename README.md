@@ -2,7 +2,7 @@
 
 31-10-2023
 ---------------------------
-Repository To track My progress learning a Python.
+Repository To Track My Progress Learning Python.
 
 
 
