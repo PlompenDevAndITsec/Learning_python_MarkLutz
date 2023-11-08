@@ -1,0 +1,1 @@
+There is a bunch of instructions about IDLE which I skipped over since I will probably use PyCharm
