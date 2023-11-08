@@ -1,0 +1,22 @@
+The Module based services model is the core idea behind python programming.
+
+Larger programs usually take the form of multiple module files.
+
+Using the FROM keyword let's you fetch (really, copy) names out of a module with from statement.
+
+From copies a module's attributes so that they become simple variables in the recipient.
+thus you can simply refer to the imported string as title (a variable) instead of myfile.title (an attribute reference).
+
+Wheter you use a import or from to invoke an import operation, the statements in the module file file.py are executed.
+
+The FROM keyword however has the potential to silentlu overwrite variables you may currently are using.
+
+Same goes for:
+
+Exec(open('script1.py).read())
+
+The basic IMPORT statement runs the file once per process and it makes the file a seperate Module NameSpace so that its assignments will not change varaibles in your scope.
+
+The price you pay for namespace of modules is the need to reload after changes.
+
+

@@ -1,0 +1,54 @@
+Interactive Prompt doesn't require explicit print statments.
+The interactive session prints ther results of expressions you type.
+However it is probably good form to do it anyway.
+
+Interactive Prompt can be exited with control+D on Unix
+
+On Windows use control+Z
+
+The IPormpt is great place to expirement with the language and test small programs.
+---------------------------------------------------------------------------------------
+
+For Now Do not use indents yet.
+---------------------------------------
+
+
+
+
+Unix style executable Scripts
+----------------------------------------
+
+Scripts Usually start with #! or "hasbang or shebang" Followed to the path of the python interpreter on your machine.
+
+They Have executable privileges. So they may be run as top-level programs. chmod +x file.py does the trick usually.
+
+After chmod run it using ./unix
+
+.py isn't neccesairy but usefull so you know it's a python file.
+
+Since you name it like that though you must run it as such ./unix.py
+
+Unix env Lookup Trick
+------------------------------------------------------------------------------
+
+On Some Unix systems you can avoid hardcoding the path by writing: 
+
+```
+#!/usr/bin/env
+...Script...
+```
+
+It will follow system search settings.
+
+Now you only have to update PATH (see page 61 of book).
+
+Above works and has meaning in Windows too from python 3.3 and onward. it checks any #! line.
+-------------------------------------------------------------------------------------------------
+
+Check appendix B for more Information
+
+
+
+
+
+
