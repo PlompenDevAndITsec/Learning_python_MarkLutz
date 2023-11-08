@@ -8,7 +8,7 @@ Plus it teaches my github I guess?
 
 
 Coding with Cold fingers or cut's on the side of nails is not pleasent.
-Regardless I am still gratefull the oppertunities we are given in modern Society with lot's of free information/
+Regardless I am still gratefull the oppertunities we are given in modern Society with lot's of free information.
 
 
 08-11-2023
