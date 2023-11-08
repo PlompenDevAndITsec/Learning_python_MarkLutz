@@ -1,5 +1,5 @@
 Interactive Prompt doesn't require explicit print statments.
-The interactive session prints ther results of expressions you type.
+The interactive session prints there results of expressions you type.
 However it is probably good form to do it anyway.
 
 Interactive Prompt can be exited with control+D on Unix
