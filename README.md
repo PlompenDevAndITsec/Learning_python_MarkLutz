@@ -15,4 +15,6 @@ Regardless I am still gratefull the oppertunities we are given in modern Society
 --------------------------------------------------------------------------------
 Progress is Slow, Thank God however we are getting close to chapter 4 and moves the basics out of the way.
 
-
+09-11-2023
+-------------------------------------------------------------------------------
+Finally Chapter 4! So happy I actually get to do something now.
