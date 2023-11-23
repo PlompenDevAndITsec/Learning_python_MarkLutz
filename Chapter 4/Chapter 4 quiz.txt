@@ -1,0 +1,75 @@
+Chapter 4 quiz:
+--------------------------------------------------------
+
+1. Name four of python's core data types.
+
+	-char
+	-string
+	-bool
+	-int
+	-double
+	-float
+
+Answer (in short):
+
+Numbers, strings, lists, dictionaries are core (object) data types.
+Bool's can be considered as data types as well none too.
+Number types such as floats, integers etc).
+
+
+2. Why are they called core data types.
+
+	because they come with the core data package of python and don't require any imports.
+
+Answer:
+
+My answer was basically correct won't defer more.
+
+
+3. What does "immutable" mean? And which core python types are considered immutable?
+
+	Immutable means that they cannot be changed after creation.
+
+	-Strings
+	-Tuples
+	-Comprehensions? not sure
+
+Answer:
+
+The third one was numbers.
+	
+
+4. What does "sequence" mean, and which three types fall into that catagory?
+
+	Must have glossed over this part.
+
+	It's definition is basically one after the other so that.
+
+Answer:
+
+
+A sequence is a positionally ordered collection of objects. strings, lists, and tuples are all sequences in python.
+
+
+
+5. What does "mapping" mean, and which core type is mapping.
+
+	Peaked at the answer but mapping means an object that denjotes an object that maps keys to associated values.
+
+Answer:
+
+I peaked so my answer is same as the answer but my intitial guess of dictonairy's was correct.
+
+
+
+6. What does "polymorphism," and why should you care?
+
+
+	polymorphism means the transformation of something. In something as stale as a computer it can be nice to have something that can change.
+	that's why you should care.
+
+
+Answer:
+
+You basically don't constrain something to a specefic type.
+
