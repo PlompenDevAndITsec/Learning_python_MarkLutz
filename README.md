@@ -18,3 +18,9 @@ Progress is Slow, Thank God however we are getting close to chapter 4 and moves 
 09-11-2023
 -------------------------------------------------------------------------------
 Finally Chapter 4! So happy I actually get to do something now.
+
+23-11-2023
+-------------------------------------------------------------------------------
+Chapter 4 was like a glossery skimming over all things. kind of sour would've rather got started right away.
+
+Chapter 5: It appears we are actually diving in deep now. Motivation is a bit low but I will keep pushing through.
